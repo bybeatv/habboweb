@@ -1,0 +1,3 @@
+01:39:46.521 [main] DEBUG com.eu.habbo.Emulator - Debugging enabled.
+01:46:00.075 [main] DEBUG com.eu.habbo.Emulator - Debugging enabled.
+02:12:47.391 [main] DEBUG com.eu.habbo.Emulator - Debugging enabled.
